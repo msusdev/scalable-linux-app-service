@@ -1,5 +1,9 @@
 # Hands-on labs
 
+| # | Episode | |
+| --- | --- | --- |
+| 1 | **Host your web apps with Microsoft Azure App Service** | [Notes](../notes/host_web_apps/readme.md) |
+
 <section class="container row mt-5" data-masonry='{"percentPosition": true }'>
     <div class="card" style="width: 18rem;">
         <div class="card-body">
