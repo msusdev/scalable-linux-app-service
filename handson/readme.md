@@ -2,10 +2,16 @@
 
 ## Show notes
 
-1. **Host your web apps with Microsoft Azure App Service**
-    - [Show Notes](../notes/host_web_apps/readme.md)
-1. **Deploy, update, and test apps with no downtime**
-    - [Show Notes](../notes/deployment_slots/readme.md)
+<section class="list-group d-inline-flex">
+    <a href="../notes/host_web_apps/readme.md" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+        Host your web apps with Microsoft Azure App Service
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 1</span>
+    </a>
+    <a href="../notes/deployment_slots/readme.md" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+        Deploy, update, and test apps with no downtime
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
+    </a>
+</section>
 
 ## Labs on Microsoft Learn
 
