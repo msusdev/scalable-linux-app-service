@@ -1,8 +1,13 @@
-# Hands-on labs
+# Get hands-on
 
-| # | Episode | |
-| --- | --- | --- |
-| 1 | **Host your web apps with Microsoft Azure App Service** | [Notes](../notes/host_web_apps/readme.md) |
+## Show notes
+
+1. **Host your web apps with Microsoft Azure App Service**
+    - [Show Notes](../notes/host_web_apps/readme.md)
+1. **Deploy, update, and test apps with no downtime**
+    - [Show Notes](../notes/deployment_slots/readme.md)
+
+## Labs on Microsoft Learn
 
 <section class="container row mt-5" data-masonry='{"percentPosition": true }'>
     <div class="card" style="width: 18rem;">
