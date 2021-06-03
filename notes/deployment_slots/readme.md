@@ -14,11 +14,20 @@
 
     - https://github.com/microsoftdocs/mslearn-deploy-web-apps-slots
 
-1. Deploy to Web App
+1. Deploy to Web App (production)
 
-    - Deploy from VS Code
+    - Deploy from VS Code without local build (error)
+
+    - Build locally and test
+
+    - Deploy from VS Code with local build (success)
+
+    - Change header
+
+    - Deploy from VS Code with remote Oryx build (success)
 
     - Observe existing header
+
 
 1. Deploy to dev slot
 
@@ -60,7 +69,7 @@
 1. Migrate staging->production using CLI
 
     ```bash
-    az webapp deployment slot create \
+    az webapp deployment slot swap \
         --resource-group '<group-name-here>' \
         --name '<name-here>'
         --slot 'dev'
