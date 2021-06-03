@@ -72,6 +72,6 @@
     az webapp deployment slot swap \
         --resource-group '<group-name-here>' \
         --name '<name-here>'
-        --slot 'dev'
-        --target-slot 'staging'
+        --slot 'staging'
+        --target-slot 'production'
     ```
