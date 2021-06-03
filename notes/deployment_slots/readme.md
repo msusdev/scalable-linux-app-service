@@ -46,7 +46,7 @@
     ```bash
     az webapp deployment slot create \
         --resource-group '<group-name-here>' \
-        --name '<name-here>'
+        --name '<name-here>' \
         --slot 'staging'
     ```
 
@@ -71,7 +71,7 @@
     ```bash
     az webapp deployment slot swap \
         --resource-group '<group-name-here>' \
-        --name '<name-here>'
-        --slot 'staging'
+        --name '<name-here>' \
+        --slot 'staging' \
         --target-slot 'production'
     ```
