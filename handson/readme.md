@@ -3,11 +3,11 @@
 ## Show notes
 
 <section class="list-group d-inline-flex">
-    <a href="../notes/host_web_apps/readme.md" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+    <a href="../notes/host_web_apps/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
         Host your web apps with Microsoft Azure App Service
         <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 1</span>
     </a>
-    <a href="../notes/deployment_slots/readme.md" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+    <a href="../notes/deployment_slots/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
         Deploy, update, and test apps with no downtime
         <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
     </a>
