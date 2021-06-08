@@ -5,15 +5,15 @@
 <section class="list-group d-inline-flex">
     <a href="../notes/host_web_apps/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
         Host your web apps with Microsoft Azure App Service
-        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 1</span>
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Jun 1</span>
     </a>
     <a href="../notes/deployment_slots/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
         Deploy, update, and test apps with no downtime
-        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Jun 3</span>
     </a>
     <a href="../notes/containers/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
         Containerize Linux apps in App Service
-        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Jun 8</span>
     </a>
 </section>
 
