@@ -11,6 +11,10 @@
         Deploy, update, and test apps with no downtime
         <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
     </a>
+    <a href="../notes/containers/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+        Containerize Linux apps in App Service
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Apr 3</span>
+    </a>
 </section>
 
 ## Labs on Microsoft Learn
