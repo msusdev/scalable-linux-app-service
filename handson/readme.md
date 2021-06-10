@@ -15,6 +15,10 @@
         Containerize Linux apps in App Service
         <span class="badge bg-secondary text-light rounded-pill ml-2">Jun 8</span>
     </a>
+    <a href="../notes/services/" class="list-group-item d-flex justify-content-between align-items-center text-primary">
+        Connect App Service to data in other Azure services
+        <span class="badge bg-secondary text-light rounded-pill ml-2">Jun 10</span>
+    </a>
 </section>
 
 ## Labs on Microsoft Learn
